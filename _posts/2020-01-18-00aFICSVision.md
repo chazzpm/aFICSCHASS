@@ -55,9 +55,9 @@ cooperation'. We assure those specific environmental conditions as a *silent cul
 tolerates the recurrent presence of a neutral behavior of selfish players that does not harm or does improve the performance
 of the aFICS team immerse in the synergistic stress of our cultural environment with its ethical standard.
 
-Football is modeled as a *CHASS complex, hierarchical, adaptive social system*. A system has a fine scale, dynamics, and
-fixed. We are interested in the larger scale information where the scale of description is similar to the scale of
-interactions. So, we can also consider the larger scale impacts of the environment of the system and reciprocally. To
+Football is modeled as a *CHASS complex, hierarchical, adaptive social system* [BarYam-2016]. A system has a fine scale,
+dynamics, and fixed. We are interested in the larger scale information where the scale of description is similar to the scale
+of interactions. So, we can also consider the larger scale impacts of the environment of the system and reciprocally. To
 understand complex behavior is best decribed across scales. But football has two **phases** of *ball on-posession* and *ball
 off-posession* and two **phase transitions** from one to the other, and viceversa: *on-to-off-posession* and *off-to-on-
 posession*. Even in the macroscopic scale, those local regions where a phase transition is happening a **patchiness** occurs
