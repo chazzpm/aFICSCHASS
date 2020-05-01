@@ -2,6 +2,8 @@
 title: "Science's Mindset in Football"
 summary: "The main role of Academia Emeritense FC is the development of synergons or aFICS players, where being member of an AcEmFC's team in a pitch is just part of the extended playground environment where and how to play football with our identity."
 toc: true
+layout: post
+description: Basis of a new science based mindset in the form of a language game about an alter-Football
 comments: true
 image: images/01MoebiusStrip.png
 hide: false
