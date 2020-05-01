@@ -1,7 +1,9 @@
 ---
 title: "aFootball: The Football Universe"
-summary: "We develop a relational model of the internal structure of the '_world of football_'."
+summary: "We develop a relational model of the internal structure of the world of Football Universe."
 toc: true
+layout: post
+description: A relational model of the internal structure of the world of Football Universe 
 comments: true
 image: images/02LevyFlightEffdf.png
 image: images/02LevyFlights_BELENG_WC2018.png
