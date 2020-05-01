@@ -1,6 +1,7 @@
 ---
 title: "aNT's Intelligent Cognitive Synergistic Football aFICS"
-summary: "Football has been my toy 'complex world'. Football will be my study case for complexity, machine learning ML and, for institutional drive at Academia Emeritense FC."
+summary: "Football has been my toy 'complex world'. Football will be my study case for complexity, machine learning ML and,
+for institutional drive at Academia Emeritense FC."
 toc: true
 comments: false
 image: 
