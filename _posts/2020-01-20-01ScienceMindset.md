@@ -23,7 +23,7 @@ Let us assume our U5 talent name, a proactive inference agent (-on, a monad), is
 ## 1.2. aFootball is a Form: System of Interactions over Time in an Unbounded Landscape
 **Information** is *form*. The nature of *form* is *relations between objects*. This is the reason to conceives **science** as a *system* of *relations over time* in *space*. This multiple-Universe perspectives is the *core of the mindset of science* today. 
 
-The purpose of this work is to generate the basis of a new mindset in the form of a **language game for Gon about an alter-Football**; conceived as *a system of dynamic interactions over a time horizon on a playground landscape* that first will be unbounded because the child meets football on the street or in the open. Later, he needs to play football in the *FIFA's framed landscape for Football*. 
+The purpose of this work is to generate the basis of a new mindset in the form of a **language game** for Gon **about an alter-Football**; conceived as *a system of dynamic interactions over a time horizon on a playground landscape* that first will be unbounded because the child meets football on the street or in the open. Later, he needs to play football in the *FIFA's framed landscape for Football*. 
 
 Our new *language game* is build from the multivalent *affordances, decisions* and *skilled actions* that he will experience and execute in the **_FIFA's framed landscape_** that will be *patched* in Academia Emeritense FC or aPitch that will become the canvas for **football analytics** in aNT. 
 
@@ -42,9 +42,8 @@ and no events means *no relations* therefore, *no space-time*. To anneal, edify 
 
 Physical science, the dominant classical mindset, establishes the **background structure of the world** by conceiving: 
 "*observables*"
-- **time** as **flow** and its mechanics rules are the immutable laws of *motion, velocities and accelerations* (or evolutive
-changes) that are described by *functions* or differential equations of a *real variable*, called *time*. 
-- An **horizon of ordered events or actions** or *generator of space-transformations on things*, where *horizon* means a 
+- **time** as **flow** and its mechanics rules are the immutable laws of *motion, velocities and accelerations* that are described by *functions* or differential equations of a *real variable*, called *time*. 
+- An **horizon of ordered events** or **actions** or *generator of space-transformations on things*, where **horizon** means a 
 *general distributed ledger of events on things caused by agents in the container*, and
 - **space** as a *container framework of things and agents* [Newton].
 
@@ -104,7 +103,7 @@ without them, no football game happened.
 
 In other side, the professional **footballers** have always seen their Football Universe through the multiplicity of views of
 themselves as the sole actors on the pitch and their observation and states of the game are build from inside. They all know
-that the universe of football have no outside and they have their own 'language game'.
+that the universe of football have no outside and they have their own '**language game**'.
 
 I will intent to take the universe of Football to study as footballers pro use to. A new machine learning approach that I must
 keep in my mind because using the classical way is a cultural temptation. The idea is to try to reformulate football in terms
