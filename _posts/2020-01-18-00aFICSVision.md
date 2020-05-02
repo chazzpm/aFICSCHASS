@@ -1,22 +1,22 @@
 ---
-title: "aNT's Intelligent Cognitive Synergistic Football aFICS"
+title: "Part 0 aF Vision: 0. aNT's Intelligent Cognitive Synergistic Football"
 summary: "Football has been my toy 'complex world'. Football will be my study case for complexity, machine learning ML and,
 for institutional drive at Academia Emeritense FC."
 toc: true
 layout: post
-description: Football my 'complex world' toy study case
+description: Football my 'complex world' toy science study case
 comments: false
 image: 
 hide: false
 search_exclude: true
-categories: [aFICS, CHASS, aNT, AcEmFC, vision]
+categories: [aFICS, CHASS, vision, aNT, AcEmFC]
 metadata_key1: aFICS_vision
 metadata_key2: CHASS_vision
 ---
 
 # Part 1 aF-Vision
 
-# 0. aNT's Intelligent Cognitive Synergistic Football aFICS
+# 0. aNT's Intelligent Cognitive Synergistic Football at AcEmFC
 > **Charles R Paez Monzon** 2019 aNatureTechnologies
 
 > "I will not write it for you, I am writing it for me. 
