@@ -7,6 +7,7 @@ description: A relational model of the internal structure of the world of Footba
 comments: true
 image: images/02LevyFlightEffdf.png
 image: images/02LevyFlights_BELENG_WC2018.png
+author: Charles R Paez
 hide: false
 search_exclude: true
 categories: [jupyter, relational, dynamics, language game]
