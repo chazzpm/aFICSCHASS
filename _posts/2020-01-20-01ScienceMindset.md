@@ -6,6 +6,7 @@ layout: post
 description: Basis of a new science based mindset in the form of a language game about an alter-Football
 comments: true
 image: images/01MoebiusStrip.png
+author: Charles R Paez
 hide: false
 search_exclude: true
 categories: [classical physics,relational,Universe]
