@@ -7,6 +7,7 @@ layout: post
 description: Football my 'complex world' toy science study case
 comments: false
 image: 
+author: Charles R Paez
 hide: false
 search_exclude: true
 categories: [aFICS, CHASS, vision, aNT, AcEmFC]
