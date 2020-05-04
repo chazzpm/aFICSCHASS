@@ -29,10 +29,14 @@ learning ML and for institutional drive at Academia Emeritense FC.
 This blog is an effort to build a *culture of innovations and disruptions* [vmware-2018] based on a reflection about the
 **mindset of science in football** with **machine learning ML data science** efforts and discipline to achieve:
 
-    - Paternships building an ecosystem focused on our costumers (talents, families, teams, tournaments, leagues) by connecting all of them through a new language game and by turning disruption into opportunities to innovate in football together.
+    - Paternships building an ecosystem focused on our costumers (talents, families, teams, tournaments, leagues) 
+    by connecting all of them through a new language game and by turning disruption into opportunities to innovate
+    in football together.
     - Drive our efforts by innovating with purpose toward a self-actualization of the aFICS vision
-    - Resilience for our aFICS vision by embracing change and diversity to drive innovation in order to create an organization capable to react to an onslaught challenges and coming out even stronger and robust. 
-    - Foster diversity, in a culture of innovations that has to be pervasive across everything we do, to create the ability to disrupt ourselves.
+    - Resilience for our aFICS vision by embracing change and diversity to drive innovation in order to create an 
+    organization capable to react to an onslaught challenges and coming out even stronger and robust. 
+    - Foster diversity, in a culture of innovations that has to be pervasive across everything we do, to create 
+    the ability to disrupt ourselves.
 
 ## 0.2. Cultural Traits for Footballers with an Identity
 **Football** is a *spatial evolutionary game* in the center of our enterprise culture. A *synergistic environment with ethical
