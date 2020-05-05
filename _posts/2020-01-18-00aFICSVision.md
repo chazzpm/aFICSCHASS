@@ -1,12 +1,11 @@
 ---
-title: "Part 0 aFootball: 0. aNT's alter Football Vision"
-summary: "Football has been my toy 'complex world'. An aFootball will be my study case for complexity, machine learning ML and, for institutional drive at Academia Emeritense FC."
+title: "Part 0 aF Vision: aNT's Intelligent Cognitive Synergistic Football"
+summary: "Football has been my toy 'complex world'. Football will be my study case for complexity, machine learning ML and,for institutional drive at Academia Emeritense FC."
 toc: true
 layout: post
 description: Football is my 'complex world' toy science study case
 comments: true
-image: 
-author: Charles R Paez
+image: images/00DualBifurcationBCmode.png
 hide: false
 search_exclude: true
 categories: [aFICS, CHASS, vision, aNT, AcEmFC]
@@ -78,9 +77,18 @@ Even in the mesoscopic scale, in all local regions and in the global landscape w
 - synergestic possitioning and action support between team mates. 
 Those patches of the playground are our first 'relevant' parameter in terms of *superiority and inferiority densities* with respect to the opponent team and anticipation of actions to execute.
 
-All *fluctuations in ball-control and pitch-control*, specially those near critical points where transitions happen, are the main **sources of uncertainty and irreversability** of the football game. The *most important fluctuations events* are associated to *effectiveness of final actions* that defines to score or concede a goal. Change totally the reading of the football game by adopting a new dimension of **time** *driven by events* that happens on the pitch. Now on, the emergence of 'events' and that of 'relevant event' allows the **appearance of novelty** associated with **irreversibility** [Lucrecio, Einstein-1905]. This alter vision is a further step to **unify all possible interactions** in football and to incorporate the idea of **'evolution' in the playing patterns** of our AcEmFC teams during a game and a tournament. So, to identify the **emergence of a playing identity** or **style*. 
+All *fluctuations in ball-control and pitch-control*, specially those near critical points where transitions happen, are the main **sources of uncertainty and irreversability** of the football game. The *most important fluctuations events* are associated to *effectiveness of final actions* that defines to score or concede a goal. Change totally the reading of the football game by adopting a new dimension of **time** *driven by events* that happens on the pitch. Now on, the emergence of '**events**' and that of '*relevant events*' allows the **appearance of novelty** associated with **irreversibility** [Lucrecio, Einstein-1905]. This alter vision is a further step to **unify all possible interactions** in football and to incorporate the idea of **'evolution' in the playing patterns** of our AcEmFC teams during a game and a tournament. So, to identify the **emergence of a playing identity** or **style*.
 
-## 0.4. Complexity Profile of Football
+## 0.4. The Bifurcations in the Arrow of Time in aFootball
+This time driven by events allow us to seek relevant information in patterns of behavior and identify **bifurcations** where irreversibility happen and 1-out-of-multiple-solutions to the adjacent future is taken in many cases by the sensibility to events near by a critical point where fluctuations happen. The *existence of bifurcations gives an historic character* to the **punctuated evolution** of *aFootball as a CHASS*. This phenomenological characteristic puts in relevance the **real arrow of time** in aFootball ruled by an energy field *order, intensity, anticipation and surplus of energy in which players and teams inject to their football actions* that breaks the symmetry in favor of 1 of the multiple adjacency future for the game. 
+The football game last 90+x minutes and Eg+Ex sequence of events that are chopped by the arbiter in n succesive intervals of **stasis** and **change** where the pitch-game CHASS systems iteratively goes from equilibrium states to a dynamics of getting away and far away from equilibrium during those **playing intervals**. 
+
+                                       FG = s0E0s1E1s2E2...sn-2En-2sn-1En-1snEn
+
+A characteristic property of aFootball as CHASS is that every *playing interval* starts in stasis. Therefore, the number of **bifurcations** in a playing interval is not so deep and we must wait that chaos is not probable to appears. Figure 0.1. illustrate the **dual ball-control bifurcation diagram of the football game** for the two teams. This is the **history** and **evolution** of the football game where the expected and the unexpected can be read.
+![](../images/00DualBifurcationBCmode.png "Figure 0.1.Dual Ball-Control Bifurcation Diagram of the aFootball Game")
+
+## 0.5. Complexity Profile of Football
 A *representation* is a map -of the set of possible states- of a system onto -the possible states of- mathematical variables.
 We have to focus attention to those states that are *distinguishable* at our mesoscale of observation. We need to identify relevant information at this scale of observation. The **complexity profile** of football is tha amount of information necessary to represent the system as a function of scale. It is given by the number of possible states of the system at this particular scale. We will start with the largest **scale pattern of behavior** and add additional information only as needed.
 
@@ -88,7 +96,7 @@ We are interested in **pattern formation** in football dynamics that represent *
 
 These ideas summarizes how and where the **synergistic, cognitive and intelligent dimensions of our alter football** are used to develop and evolve our aFICS synergons and aFICS teams at Academia Emeritense FC.
 
-## 0.5. aFICS Blog: A tool at hand to expose my based on science mindset perspective
+## 0.6. aFICS Blog: A tool at hand to expose my based on science mindset perspective
 In the blog, I explore how is that we can all live in the same Football universe yet see reality so differently. I will adopt
 science's mindset to walk through in this phenomenon with an aFICS vision. 
 
