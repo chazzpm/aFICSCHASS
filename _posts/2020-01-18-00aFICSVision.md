@@ -83,11 +83,11 @@ All *fluctuations in ball-control and pitch-control*, specially those near criti
 This time driven by events allow us to seek relevant information in patterns of behavior and identify **bifurcations** where irreversibility happen and 1-out-of-multiple-solutions to the adjacent future is taken in many cases by the sensibility to events near by a critical point where fluctuations happen. The *existence of bifurcations gives an historic character* to the **punctuated evolution** of *aFootball as a CHASS*. This phenomenological characteristic puts in relevance the **real arrow of time** in aFootball ruled by an energy field *order, intensity, anticipation and surplus of energy in which players and teams inject to their football actions* that breaks the symmetry in favor of 1 of the multiple adjacency future for the game. 
 The football game last 90+x minutes and Eg+Ex sequence of events that are chopped by the arbiter in n succesive intervals of **stasis** and **change** where the pitch-game CHASS systems iteratively goes from equilibrium states to a dynamics of getting away and far away from equilibrium during those **playing intervals**. 
 
-                                       FG = s0E0s1E1s2E2...sn-2En-2sn-1En-1snEn
+       FG = s0E0s1E1s2E2...sn-2En-2sn-1En-1snEn
 
 A characteristic property of aFootball as CHASS is that every *playing interval* starts in stasis. Therefore, the number of **bifurcations** in a playing interval is not so deep and we must wait that chaos is not probable to appears. Figure 0.1. illustrate the **dual ball-control bifurcation diagram of the football game** for the two teams. This is the **history** and **evolution** of the football game where the expected and the unexpected can be read.
 
-![](images/00DualBifurcationBCmode.png "Figure 0.1. Dual Ball-Control Bifurcation Diagram of the aFootball Game")
+![](/images/00DualBifurcationBCmode.png "Figure 0.1. Dual Ball-Control Bifurcation Diagram of the aFootball Game")
 
 ## 0.5. Complexity Profile of Football
 A *representation* is a map -of the set of possible states- of a system onto -the possible states of- mathematical variables.
