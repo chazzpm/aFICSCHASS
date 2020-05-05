@@ -1,5 +1,5 @@
 ---
-title: "2. aFootball: The Football Universe"
+title: "Part 0: 2. aFootball: The Football Universe"
 summary: "We develop a relational model of the internal structure of the world of Football Universe"
 toc: true
 layout: post
