@@ -1,7 +1,6 @@
 ---
-title: "Part 0 aF Vision: 0. aNT's Intelligent Cognitive Synergistic Football"
-summary: "Football has been my toy 'complex world'. Football will be my study case for complexity, machine learning ML and,
-for institutional drive at Academia Emeritense FC."
+title: "Part 0 aFootball: 0. aNT's alter Football Vision"
+summary: "Football has been my toy 'complex world'. An aFootball will be my study case for complexity, machine learning ML and, for institutional drive at Academia Emeritense FC."
 toc: true
 layout: post
 description: Football is my 'complex world' toy science study case
@@ -15,15 +14,17 @@ metadata_key1: aFICS_vision
 metadata_key2: CHASS_vision
 ---
 
-# Part 0 aF-Vision
+# Part 0 aFootball
 
-# 0. aNT's Intelligent Cognitive Synergistic Football for AcEmFC
+# 0. aNT's alter Football Vision
 > **Charles R Paez Monzon** 2019 aNatureTechnologies
 
 > "I will not write it for you, I am writing it for me. No idea if for an us, in any near future"
 
 Football has been my toy world. Many of you use to say 'football is life-like.' Football will be my study case for machine
-learning ML and for institutional drive at Academia Emeritense FC.
+learning ML and for institutional drive at Academia Emeritense FC. In this first post, I will try to clarify:
+- AcEmFC's **culture traits** where aFICS dimensions are reinforced in order to create an identity for playing and behavior, and
+- The sources of **complexity** in the football game. 
 
 ## 0.1. A Culture of Innovation and Disruption
 This blog is an effort to build a *culture of innovations and disruptions* [vmware-2018] based on a reflection about the
@@ -39,23 +40,23 @@ This blog is an effort to build a *culture of innovations and disruptions* [vmwa
     the ability to disrupt ourselves.
 
 ## 0.2. Cultural Traits for Footballers with an Identity
-**Football** is a *spatial evolutionary game* in the center of our enterprise culture. A *synergistic environment with ethical
-standard* are relevant traits that must characterize the **style or identity** of our synergons - aFICS talents - and aFICS
-teams.
+**Football** is a *spatial evolutionary social game* in the center of our enterprise culture. A **synergistic environment with
+ethical standard** are relevant traits that must characterize the **style or identity** of our synergons - aFICS talents - and
+aFICS teams.
 
 **Synergy** or '*cooperative willingly under compromise*' trait can survive the intense competition during a game and a 
 tournament.  If the spatial distribution allows to cooperators to interact with each other frequently, the *benefits of
-cooperation will outweight the losses due to explotation by selfish players*. However, for a synergistic behaviour to get
-established in an aFICS team,
-- it need  to be found initially in a sufficiently *large cluster* to allow a *high frequency of intra-cooperator interactions*. 
-- At the same time, a *tit-for-tat policy* is used as ethical standard to penalize selfish defectors players. 
+cooperation will outweight the losses due to explotation by selfish players*. However, for a *synergistic ethical behavior to
+get established* in an aFICS team, it needs to:
+- be found initially in a sufficiently *large cluster* to allow a *high frequency of intra-cooperator interactions*, and 
+- at the same time, a *tit-for-tat policy* of reinforcement is used as ethical standard to penalize selfish defectors players. 
 
-This two criteria explain 'how the evolution of an aFICS team overcomes the emergence problem of collective and coherent
-cooperation'. We assure those specific environmental conditions as a **silent culture of synergy and its reinforcement**. It
-tolerates the recurrent presence of a neutral behavior of selfish players that does not harm or does improve the performance
-of the aFICS team immerse in the synergistic stress of our cultural environment with its ethical standard.
+This two criteria explain '*how the evolution of an aFICS team overcomes the emergence problem of collective and coherent
+cooperation*'. We assure those specific environmental conditions as a **silent culture of synergy and its ethical
+reinforcement**. It tolerates the recurrent presence of a neutral behavior of selfish players that does not harm or does
+improve the performance of the aFICS team immerse in the synergistic stress of our cultural environment.
 
-A third trait is that football is modeled as a *CHASS complex, hierarchical, adaptive social system* [BarYam-2016]. A system has a fixed fine scale dynamics. We are interested in the larger scale of information where the scale of description is similar to the scale of interactions. So, we can also consider the larger scale impacts of the environment of the system and reciprocally.
+A third trait is that football is modeled as a *CHASS complex, hierarchical, adaptive social system* [Prigonine-1993, BarYam-2016]. A **complex social system** has a fixed fine *scale dynamics* and a *history*. We are interested in the larger scale of information where the scale of description is similar to the scale of interactions. So, we can also consider the larger scale impacts of the environment of the system and reciprocally. **Complex Systems** is a 'new science' or an 'alter vision'. The conception of **time** in the description of nature mainly, but of human complex behavior, too. The 'old' science's interest was the reversible phenomena in the Universe in equilibrium with no-time. Now, the scientific gaze has been oriented to *unstability dinamics* associated to *far-away-from-equilibrium* and *chaos* phenomena where **uncertainty and irreversibility** characterize *unstabilities* and *events*. The reason for me, that explains why football is my 'complex world' toy. 
 
 ## 0.3. Certainty and Uncertainty Sources in Local and Global Regions in Football
 To understand complex behavior is best described across scales. A football game has two main **local-phases** in its dynamics whose source is *ball control* in local regions and two main **global-phases** whose source is *pitch control* of the global landscape. The local phases are more prone to *fluctuations* than the global phases. 
