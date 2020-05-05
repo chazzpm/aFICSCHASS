@@ -1,5 +1,5 @@
 ---
-title: "Part 0 aF Vision: aNT's Intelligent Cognitive Synergistic Football"
+title: "Part 0 aF Vision: aNT's alter Football"
 summary: "Football has been my toy 'complex world'. Football will be my study case for complexity, machine learning ML and,for institutional drive at Academia Emeritense FC."
 toc: true
 layout: post
@@ -13,9 +13,9 @@ metadata_key1: aFICS_vision
 metadata_key2: CHASS_vision
 ---
 
-# Part 0 aFootball
+# Part 0 aF Vision
 
-# 0. aNT's alter Football Vision
+# 0. aNT's alter Football
 > **Charles R Paez Monzon** 2019 aNatureTechnologies
 
 > "I will not write it for you, I am writing it for me. No idea if for an us, in any near future"
@@ -86,7 +86,8 @@ The football game last 90+x minutes and Eg+Ex sequence of events that are choppe
                                        FG = s0E0s1E1s2E2...sn-2En-2sn-1En-1snEn
 
 A characteristic property of aFootball as CHASS is that every *playing interval* starts in stasis. Therefore, the number of **bifurcations** in a playing interval is not so deep and we must wait that chaos is not probable to appears. Figure 0.1. illustrate the **dual ball-control bifurcation diagram of the football game** for the two teams. This is the **history** and **evolution** of the football game where the expected and the unexpected can be read.
-![](../images/00DualBifurcationBCmode.png "Figure 0.1.Dual Ball-Control Bifurcation Diagram of the aFootball Game")
+
+![](images/00DualBifurcationBCmode.png "Figure 0.1. Dual Ball-Control Bifurcation Diagram of the aFootball Game")
 
 ## 0.5. Complexity Profile of Football
 A *representation* is a map -of the set of possible states- of a system onto -the possible states of- mathematical variables.
