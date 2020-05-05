@@ -5,7 +5,7 @@ toc: true
 layout: post
 description: Football is my 'complex world' toy science study case
 comments: true
-image: images/00DualBifurcationBCmode.png
+image: /images/00DualBifurcationBCmode.png
 hide: false
 search_exclude: true
 categories: [aFICS, CHASS, vision, aNT, AcEmFC]
