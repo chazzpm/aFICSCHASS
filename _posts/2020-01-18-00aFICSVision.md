@@ -29,63 +29,67 @@ learning ML and for institutional drive at Academia Emeritense FC. In this first
 This blog is an effort to build a *culture of innovations and disruptions* [vmware-2018] based on a reflection about the
 **mindset of science in football** with **machine learning ML data science** efforts and discipline to achieve:
 
-    - Paternships building an ecosystem focused on our costumers (talents, families, teams, tournaments, leagues) 
-    by connecting all of them through a new language game and by turning disruption into opportunities to innovate
-    in football together.
+    - Paternships building an ecosystem focused on our costumers (talents, families, teams, tournaments, leagues) by connecting all of them through a new language game and by turning disruption into opportunities to innovatein football together.
     - Drive our efforts by innovating with purpose toward a self-actualization of the aFICS vision
-    - Resilience for our aFICS vision by embracing change and diversity to drive innovation in order to create an 
-    organization capable to react to an onslaught challenges and coming out even stronger and robust. 
-    - Foster diversity, in a culture of innovations that has to be pervasive across everything we do, to create 
-    the ability to disrupt ourselves.
+    - Resilience for our aFICS vision by embracing change and diversity to drive innovation in order to create an organization capable to react to an onslaught challenges and coming out even stronger and robust. 
+    - Foster diversity, in a culture of innovations that has to be pervasive across everything we do, to create the ability to disrupt ourselves.
 
 ## 0.2. Cultural Traits for Footballers with an Identity
 **Football** is a *spatial evolutionary social game* in the center of our enterprise culture. A **synergistic environment with
 ethical standard** are relevant traits that must characterize the **style or identity** of our synergons - aFICS talents - and
 aFICS teams.
 
-**Synergy** or '*cooperative willingly under compromise*' trait can survive the intense competition during a game and a 
-tournament.  If the spatial distribution allows to cooperators to interact with each other frequently, the *benefits of
-cooperation will outweight the losses due to explotation by selfish players*. However, for a *synergistic ethical behavior to
-get established* in an aFICS team, it needs to:
+**Synergy** or '*cooperative willingly under compromise*' trait can survive the intense competition during a game and a  tournament.  If the spatial distribution allows to cooperators to interact with each other frequently, the *benefits of cooperation will outweight the losses due to explotation by selfish players*. However, for a *synergistic ethical behavior to get established* in an aFICS team, it needs to:
 - be found initially in a sufficiently *large cluster* to allow a *high frequency of intra-cooperator interactions*, and 
 - at the same time, a *tit-for-tat policy* of reinforcement is used as ethical standard to penalize selfish defectors players. 
 
-This two criteria explain '*how the evolution of an aFICS team overcomes the emergence problem of collective and coherent
-cooperation*'. We assure those specific environmental conditions as a **silent culture of synergy and its ethical
-reinforcement**. It tolerates the recurrent presence of a neutral behavior of selfish players that does not harm or does
-improve the performance of the aFICS team immerse in the synergistic stress of our cultural environment.
+This two criteria explain '*how the evolution of an aFICS team overcomes the emergence problem of collective and coherent cooperation*'. We assure those specific environmental conditions as a **silent culture of synergy and its ethical reinforcement**. It tolerates the recurrent presence of a neutral behavior of selfish players that does not harm or does improve the performance of the aFICS team immerse in the synergistic stress of our cultural environment.
 
 A third trait is that football is modeled as a *CHASS complex, hierarchical, adaptive social system* [Prigonine-1993, BarYam-2016]. A **complex social system** has a fixed fine *scale dynamics* and a *history*. We are interested in the larger scale of information where the scale of description is similar to the scale of interactions. So, we can also consider the larger scale impacts of the environment of the system and reciprocally.
 
-**Complex Systems** is a 'new science' or an 'alter vision'. The conception of **time** in the description of nature mainly, but of human complex behavior, too. The 'old' science's interest was the reversible phenomena in the Universe in equilibrium with no-time. Now, the scientific gaze has been oriented to *unstable dinamics* associated to *far-away-from-equilibrium* and *chaos* phenomena where **uncertainty and irreversibility** characterize *unstabilities* and *events*. The reason for me, that explains, why football is my 'complex world' toy. 
+**Complex Systems** is a 'new science' or an 'alter vision'. The conception of **time** in the description of nature mainly, but of human complex behavior, too. The 'old' science's interest was the reversible phenomena in the Universe in equilibrium with no-time. Now, the scientific gaze has been oriented to *unstable dynamics* associated to *far-away-from-equilibrium* and *chaos* phenomena where **uncertainty and irreversibility** characterize *unstabilities* and *events*. The reason for me, that explains, why football is my 'complex world' toy. 
 
 ## 0.3. Uncertainty and Irreversability Sources in Local and Global Regions in Football
-To understand complex behavior is best described across scales. A football game has two main **local-phases** in its dynamics whose source is *ball control* in local regions and two main **global-phases** whose source is *pitch control* of the global landscape. The local phases are more prone to *fluctuations* than the global phases. 
+To understand complex behavior is best described across scales. A football game has 
+- two main **local-phases** in its dynamics whose source is *ball control* in local regions and 
+- two main **global-phases** whose source is *pitch control* of the global landscape.
+The local phases are more prone to *fluctuations* than the global phases. 
 
-A football team exhibits 1-out-of-2 playing modes: **on-ball** control and **off-ball** control of local regions. Therefore, two **local phase transitions**, with respect to ball-control, from one local mode to the other, and viceversa:
-- **on-to-off-possession** and **off-to-on-possession** of one or more local regions. 
+A football team exhibits 1-out-of-2 playing modes: 
+- **on-ball** control and **off-ball** control of local regions.
+
+Therefore, two **local phase transitions**, with respect to ball-control, from one local mode to the other, and viceversa:
+- **on-to-off-possession** and 
+- **off-to-on-possession** of one or more local regions.
+
 Similarly, there are two **global phase transitions** associated to **pitch-control**. 
-- **on-to-off-domain** and **off-to-on-domain** of the pitch or bounded global landscape.
+- **on-to-off-domain** and 
+- **off-to-on-domain** of the pitch or bounded global landscape.
+
 All kinds of phase transitions are subject to 
 - **fluctuations in density** of players or superiority and 
 - control around **critical points** where the transition happens.
 
-Even in the mesoscopic scale, in all local regions and in the global landscape where a specific phase transition is happening, a **patchiness** phenomenon occurs. A subdivision of the space in terms of **superiority** or **control**. A first approach is to *subdivide in **patches** the global landscape* in order to create an alter playground **aPlayground** of reference oriented to local and global:
+Even in the mesoscopic scale, in all local regions and in the global landscape where a specific phase transition is happening, a **patchiness** phenomenon occurs. A subdivision of the space in terms of **superiority** or **control**.
+
+A first approach is to *subdivide in **patches** the global landscape* in order to create an alter playground **aPlayground** of reference oriented to local and global:
 - cognitive exploration, 
 - affordances perception, 
-- speedy decision-making, and
-- synergestic possitioning and action support between team mates. 
+- speedy decision-making, 
+- collective intentionality, and
+- synergestic possitioning and action support between team mates.
+
 Those patches of the playground are our first 'relevant' parameter in terms of *superiority and inferiority densities* with respect to the opponent team and anticipation of actions to execute.
 
 All *fluctuations in ball-control and pitch-control*, specially those near critical points where transitions happen, are the main **sources of uncertainty and irreversability** of the football game. The *most important fluctuations events* are associated to *effectiveness of final actions* that defines to score or concede a goal. Change totally the reading of the football game by adopting a new dimension of **time** *driven by events* that happens on the pitch. Now on, the emergence of '**events**' and that of '*relevant events*' allows the **appearance of novelty** associated with **irreversibility** [Lucrecio, Einstein-1905]. This alter vision is a further step to **unify all possible interactions** in football and to incorporate the idea of **'evolution' in the playing patterns** of our AcEmFC teams during a game and a tournament. So, to identify the **emergence of a playing identity** or **style*.
 
 ## 0.4. The Bifurcations in the Arrow of Time in aFootball
-This time driven by events allow us to seek relevant information in patterns of behavior and identify **bifurcations** where irreversibility happen and 1-out-of-multiple-solutions to the adjacent future is taken in many cases by the sensibility to events near by a critical point where fluctuations happen. The *existence of bifurcations gives an historic character* to the **punctuated evolution** of *aFootball as a CHASS*. This phenomenological characteristic puts in relevance the **real arrow of time** in aFootball ruled by an energy field *order, intensity, anticipation and surplus of energy in which players and teams inject to their football actions* that breaks the symmetry in favor of 1 of the multiple adjacency future for the game. 
+This time driven by events allow us to seek relevant information in patterns of behavior and identify **bifurcations** where irreversibility happen and 1-out-of-multiple-solutions to the adjacent future is taken in many cases by the sensibility to events near by a critical point where fluctuations happen. The *existence of bifurcations gives an historic character* to the **punctuated evolution** of *aFootball as a CHASS*. This phenomenological characteristic puts in relevance the **real arrow of time** in aFootball ruled by an energy field of *order, intensity, anticipation* and the *surplus of energy in which players and teams inject to their football actions* that breaks the symmetry in favor of 1 of the multiple adjacency future for the game. 
 The football game last 90+x minutes and Eg+Ex sequence of events that are chopped by the arbiter in n succesive intervals of **stasis** and **change** where the pitch-game CHASS systems iteratively goes from equilibrium states to a dynamics of getting away and far away from equilibrium during those **playing intervals**. 
 
        FG = s0E0s1E1s2E2...sn-2En-2sn-1En-1snEn
 
-A characteristic property of aFootball as CHASS is that every *playing interval* starts in stasis. Therefore, the number of **bifurcations** in a playing interval is not so deep and we must wait that chaos is not probable to appears. Figure 0.1. illustrate the **dual ball-control bifurcation diagram of the football game** for the two teams. This is the **history** and **evolution** of the football game where the expected and the unexpected can be read.
+A characteristic property of aFootball as CHASS is that every *playing interval* starts in stasis. Therefore, the number of **bifurcations** in a playing interval is not so deep and we must wait that chaos is not probable to appears. Figure 0.1. illustrate the **dual ball-control bifurcation diagram of the football game** for the two teams. This is the **history** and **punctuared evolution** of the football game where the expected and the unexpected can be read.
 
 ![](/images/00DualBifurcationBCmode.png "Figure 0.1. Dual Ball-Control Bifurcation Diagram of the aFootball Game")
 
