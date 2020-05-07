@@ -18,7 +18,7 @@ metadata_key2: CHASS_vision
 # 0. aNT's alter Football
 > **Charles R Paez Monzon** 2019 aNatureTechnologies
 
-{% include alert.html text="I will not write it for you, I am writing it for me. No idea if for an us, in any near future"%}
+> "I will not write it for you, I am writing it for me. No idea if for an us, in any near future"
 
 Football has been my toy world. Many of you use to say 'football is life-like.' Football will be my study case for machine
 learning ML and for institutional drive at Academia Emeritense FC. In this first post, I will try to clarify:
@@ -31,14 +31,13 @@ and
 This blog is an effort to build a *culture of innovations and disruptions* [vmware-2018] based on a reflection about the
 **mindset of science in football** with **machine learning ML data science** efforts and discipline to achieve:
 
-{% include info.html text="
-    - Paternships building an ecosystem focused on our costumers (talents, families, teams, tournaments, leagues) by connecting all of them through a new language game and by turning disruption into opportunities to innovatein football together"%}
-{% include info.html text="    
-    - Drive our efforts by innovating with purpose toward a self-actualization of the aFICS vision"%}
-{% include info.html text="    
-    - Resilience for our aFICS vision by embracing change and diversity to drive innovation in order to create an organization capable to react to an onslaught challenges and coming out even stronger and robust."%}
-{% include info.html text="    
-    - Foster diversity, in a culture of innovations that has to be pervasive across everything we do, to create the ability to disrupt ourselves."%}
+    - Paternships building an ecosystem focused on our costumers (talents, families, teams, tournaments, leagues) by connecting all of them through a new language game and by turning disruption into opportunities to innovatein football together
+    
+    - Drive our efforts by innovating with purpose toward a self-actualization of the aFICS vision
+   
+    - Resilience for our aFICS vision by embracing change and diversity to drive innovation in order to create an organization capable to react to an onslaught challenges and coming out even stronger and robust, and
+    
+    - Foster diversity, in a culture of innovations that has to be pervasive across everything we do, to create the ability to disrupt ourselves.
 
 ## 0.2. Cultural Traits for Footballers with an Identity
 **Football** is a *spatial evolutionary social game* in the center of our enterprise culture. A **synergistic environment with
@@ -70,7 +69,7 @@ Therefore, two **local phase transitions**, with respect to **ball-control**, fr
 - **off-to-on-possession** of one or more local regions.
 
 Similarly, a football team exhibits 1-out-of-2-global-phases with respect to pitch control:
-- **on-pitch** control and *off-pitch** control of the global playground
+- **on-pitch** control and **off-pitch** control of the global playground
 
 There are two **global phase transitions** associated to **pitch-control**. 
 - **on-to-off-domain** and 
