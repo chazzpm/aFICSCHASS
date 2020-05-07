@@ -22,17 +22,20 @@ metadata_key2: CHASS_vision
 
 Football has been my toy world. Many of you use to say 'football is life-like.' Football will be my study case for machine
 learning ML and for institutional drive at Academia Emeritense FC. In this first post, I will try to clarify:
+
+{% include info.html text="
 - AcEmFC's **culture traits** where aFICS dimensions are reinforced in order to create an identity for playing and behavior, and
-- The sources of **complexity** in the football game. 
+- The sources of **complexity** in the football game." %} 
 
 ## 0.1. A Culture of Innovation and Disruption
 This blog is an effort to build a *culture of innovations and disruptions* [vmware-2018] based on a reflection about the
 **mindset of science in football** with **machine learning ML data science** efforts and discipline to achieve:
 
+{% include info.html text="
     - Paternships building an ecosystem focused on our costumers (talents, families, teams, tournaments, leagues) by connecting all of them through a new language game and by turning disruption into opportunities to innovatein football together.
     - Drive our efforts by innovating with purpose toward a self-actualization of the aFICS vision
     - Resilience for our aFICS vision by embracing change and diversity to drive innovation in order to create an organization capable to react to an onslaught challenges and coming out even stronger and robust. 
-    - Foster diversity, in a culture of innovations that has to be pervasive across everything we do, to create the ability to disrupt ourselves.
+    - Foster diversity, in a culture of innovations that has to be pervasive across everything we do, to create the ability to disrupt ourselves."%}
 
 ## 0.2. Cultural Traits for Footballers with an Identity
 **Football** is a *spatial evolutionary social game* in the center of our enterprise culture. A **synergistic environment with
@@ -73,11 +76,13 @@ All kinds of phase transitions are subject to
 Even in the mesoscopic scale, in all local regions and in the global landscape where a specific phase transition is happening, a **patchiness** phenomenon occurs. A subdivision of the space in terms of **superiority** or **control**.
 
 A first approach is to *subdivide in **patches** the global landscape* in order to create an alter playground **aPlayground** of reference oriented to local and global:
+
+{% include info.html text="
 - cognitive exploration, 
 - affordances perception, 
 - speedy decision-making, 
 - collective intentionality, and
-- synergestic possitioning and action support between team mates.
+- synergestic possitioning and action support between team mates."%}
 
 Those patches of the playground are our first 'relevant' parameter in terms of *superiority and inferiority densities* with respect to the opponent team and anticipation of actions to execute.
 
@@ -87,7 +92,7 @@ All *fluctuations in ball-control and pitch-control*, specially those near criti
 This time driven by events allow us to seek relevant information in patterns of behavior and identify **bifurcations** where irreversibility happen and 1-out-of-multiple-solutions to the adjacent future is taken in many cases by the sensibility to events near by a critical point where fluctuations happen. The *existence of bifurcations gives an historic character* to the **punctuated evolution** of *aFootball as a CHASS*. This phenomenological characteristic puts in relevance the **real arrow of time** in aFootball ruled by an energy field of *order, intensity, anticipation* and the *surplus of energy in which players and teams inject to their football actions* that breaks the symmetry in favor of 1 of the multiple adjacency future for the game. 
 The football game last 90+x minutes and Eg+Ex sequence of events that are chopped by the arbiter in n succesive intervals of **stasis** and **change** where the pitch-game CHASS systems iteratively goes from equilibrium states to a dynamics of getting away and far away from equilibrium during those **playing intervals**. 
 
-       FG = s0E0s1E1s2E2...sn-2En-2sn-1En-1snEn
+FG = s0E0s1E1s2E2...sn-2En-2sn-1En-1snEn
 
 A characteristic property of aFootball as CHASS is that every *playing interval* starts in stasis. Therefore, the number of **bifurcations** in a playing interval is not so deep and we must wait that chaos is not probable to appears. Figure 0.1. illustrate the **dual ball-control bifurcation diagram of the football game** for the two teams. This is the **history** and **punctuared evolution** of the football game where the expected and the unexpected can be read.
 
