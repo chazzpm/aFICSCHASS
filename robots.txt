@@ -1,1 +1,1 @@
-Sitemap: https://github.io.chazzpm/aFICSCHASS/sitemap.xml
+Sitemap: https://chazzpm.github.io/chazzpm/aFICSCHASS/sitemap.xml
