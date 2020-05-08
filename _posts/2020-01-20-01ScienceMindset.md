@@ -78,7 +78,7 @@ Let us describe the 'structure of the world' as a '**view**' based on a theory a
 ## 1.5. In aFootball Universe there is only interior, not exterior in a Framed Landscape
 In Football universe, the **event** are the things that happen at a single place and time; at each event there’s some physical quantity that’s measurable. The *event* has relations with the rest of the football universe, and that set of relations constitutes our *view* of the football universe. To have complete paralellism, **football needs to be played in a framed landscape**.
 
-![](/images/01MoebiusStrip.png "Figure 1.1. Universe with only interior and perimeter")
+![](http://github.com/chazzpm/aFICSCHASS/images/01MoebiusStrip.png "Figure 1.1. Universe with only interior and perimeter")
 
 Its classical view is the language game of journalists, espectators, fans and now in 21st century those with the language of sport analytics where their observations and states about a football match - inside- are ruled by an absolute time with aduration 90 + x minutes and the dynamics of the football game is described by the external observators. In this context,without them, no football game happened.
 
