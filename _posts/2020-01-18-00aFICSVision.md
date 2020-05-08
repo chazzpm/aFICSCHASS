@@ -106,7 +106,7 @@ The football game last 90+x minutes and Pg+Px sequence of playing intervals or c
 
 A characteristic property of aFootball as CHASS is that every *playing interval* starts in *stasis*. Therefore, the number of **bifurcations** in a playing interval is not so deep and we must wait that chaos is not probable to appears. Figure 0.1. illustrate the **dual ball-control bifurcation diagram of the football game** for the two teams. This is the **history** and **punctuared evolution** of the football game where the expected and the unexpected can be read.
 
-![](/images/00DualBifurcationBCmode.png "Figure 0.1. Dual Ball-Control Bifurcation Diagram of the aFootball Game")
+![](http://chazzpm.github.com/aFICSCHASS/images/00DualBifurcationBCmode.png "Figure 0.1. Dual Ball-Control Bifurcation Diagram of the aFootball Game")
 
 ## 0.5. Complexity Profile of aFootball
 A *representation* is a map -of the set of possible states- of a system onto -the possible states of- mathematical variables.
