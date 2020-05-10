@@ -28,7 +28,7 @@ Science needs mathematical theory to **model the world phenomena** and to discov
 This relational football is already present in the middle of football data science departments and enterprises like StatsBomb,
 Opta, Wyscout, etc. 
 
-{% include info.html text="Their dataframes are events driven and columns pairs are relations between relevant observables inside the pitch. Figure 2.1 shows a dataframe of all the events in the range (2526..2537) of the effective possession phase 152, that corresponds to the 98th possession brake 'PB'. Phase possession of 'Barcelona' starts with from a throw in 'play pattern id' 4 at xy-location (13.9,1.0) in the minute 68. The sequence of events ends up in event 2637 at xy-location (63.9,36.7)."%}
+{% include info.html text="Their dataframes are events driven and columns pairs are relations between relevant observables inside the pitch. Figure 2.1 shows a dataframe of all the events in the range (2526..2537) of the effective possession phase 152, that corresponds to the 98th possession brake 'PB'. The on-ball phase possession of 'Barcelona' starts with from a throw in 'play pattern id' 4 at xy-location (13.9,1.0) in the minute 68. The sequence of events ends up in event 2637 at xy-location (63.9,36.7)."%}
 
 ![](http://chazzpm.github.com/aFICSCHASS/images/02LevyFlightEffdf.png "Figure 2.1. Dataframe of a Levy Flight in a Match")
 
@@ -89,7 +89,7 @@ The state in the football phase space Γ is in stasis until the system is distur
 
 In the football language, notions like instantaneous state, equilibrium state, evolution in time, observable at time t have  no role to play and have no sense in this context. May be, we must take into account:
 
-{% include info.html text="The *thermal time hypothesis*. In nature, so in football, all variables are equivalent; we can find the system in an arbitrary state ρ; if the system is in a state ρ, then a preferred variable is singled out by the state of the system. This variable is what we call **time** and has no meaning in the structure of the world and the **flow of time** is the flow in which football happens to be, when described in terms of the macroscopic parameters we  have chosen. So, the language game and football flow dynamics are event driven." %}
+{% include info.html text="The *thermal time hypothesis*. In nature, so in football, all variables are equivalent; we can find the system in an arbitrary state ρ; if the system is in a state ρ, then a preferred variable is singled out by the state of the system. This variable is what we call 'time' and has no meaning in the structure of the world and the 'flow of time' is the flow in which football happens to be, when described in terms of the macroscopic parameters we  have chosen. So, the language game and football flow dynamics are event driven." %}
 
 This new '**language game**' to be used about the new football universe in which all are immersed today. It is an innovation and a disruption to be assimilated as **culture** or dominant mindset for academies, clubs, associations, players, head  coaches, trainers, agents, journalists, fans, enterprises and, any alien in the **aFootball Universe**. 
 
