@@ -24,7 +24,7 @@ The main role of Academia Emeritense FC is the **development of synergons** or a
 
 Let us assume our U5 talent name, a proactive inference agent (-on, a monad [Leibniz-1714, Friston-2020]), is Gunter or Guillermo. So, let us call this ideal synergon **G-on**, or **Gon** as apelative and, he will be the subject of our architecture of football education. 
 
-{% include info.html text="If his name is Mauricio or Manuel or Matias, it would be called M-on or 'Mon', and the like. Each one of our five hundred talents registered in Academia Emeritense every year. A 'monad' the atomic universe of football"%}
+{% include info.html text="If his name is Mauricio or Manuel or Matias, it would be called M-on or 'Mon', and the like. Each one of our five hundred talents registered in Academia Emeritense every year:  A 'monad', the atomic universe of football"%}
 
 ## 1.2. aFootball as a System of Interactions over Event Drive Time in an Unbounded Landscape
 **Information** is *form*. The nature of *form* are *relations between objects*. This is the reason to conceives **science** as a *system* of *relations over time* driven by events in *space*. This multiple-Universe perspectives is the **core of the mindset of science** today. 
@@ -80,6 +80,7 @@ Let us describe the 'structure of the world' as a '**view**' based on a theory a
 
 {% include alert.html text="
 - We need a **pace** the imaginary way of describing relationships [Leibniz],[Smolin]."%}
+
 {% include info.html text="
 - An **invisible relational framework** [The Monadology - Leibniz]"%}
 
