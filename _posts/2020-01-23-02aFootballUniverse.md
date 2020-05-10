@@ -30,12 +30,11 @@ Opta, Wyscout, etc.
 
 {% include info.html text="Their dataframes are events driven and columns pairs are relations between relevant observables inside the pitch. Figure 2.1 shows a dataframe of all the events in the range (2526..2537) of the effective possession phase 152, that corresponds to the 98th possession brake 'PB'. Phase possession of 'Barcelona' starts with from a throw in 'play pattern id' 4 at xy-location (13.9,1.0) in the minute 68. The sequence of events ends up in event 2637 at xy-location (63.9,36.7)."%}
 
-This manner to describe football has adopted the physical-mathematical model of observables and states relations that marks time as an event-driven variable, that adopts the manner footballers experience their football universe on the pitch. I am modeling such an experience, that is all.
-
 ![](http://chazzpm.github.com/aFICSCHASS/images/02LevyFlightEffdf.png "Figure 2.1. Dataframe of a Levy Flight in a Match")
 
-### 2.1.1. Relevant Observations of Relations
+This manner to describe football has adopted the physical-mathematical model of observables and states relations that marks time as an event-driven variable, that adopts the manner footballers experience their football universe on the pitch. I am modeling such an experience, that is all.
 
+### 2.1.1. Relevant Observations of Relations
 In football, the **relevant observation** of Gon is measure _change in ball position_ and _event-time_, _together_ and yields an event-coordinate tuple (α, β). This relevant observation is an _**event**_. Each event has relations with the rest of the football universe and, that set of relations constitutes its *view* of the Universe. Each view has to be unique.
 
 The 'actual' in a CHASS complex hierarchical adaptive social system, as a football game, on average keep expanding into the 'adjacent possible' [S Kauffman]. By doing so, they increase the diversity of what can happen next. Increase the 'novelty' of events. Each player maximize the rate of exploration of adjacent possibles as fast as they can get away with it.
@@ -72,7 +71,6 @@ A _relativistic state_ is determined by a couple (A, φ). It determines a _curve
 When a team re-gain possession during a match, let me say at alpha α-point relativistic state, through an **alpha-event** open the adjacent possible of a sequence of intelligent, cognitive and synergestic event pipeline of football flow dynamics towards the rival goal. Such a sequence is a *protopian-trajectory* of incremental progress of '_expected goal_ xG' accomplishing xG football motion by football motion in the sequence that in case of end in an **omega event** with a pass to the net of the rival goal we call it a **Levy flight**, an actual football flow dynamics from alpha α-point to omega point where a teammate player scores a goal.
 
 The most important _relativistic observable_ will be the scored minus conceded goals or '_goal difference_' of each team and in terms of analytics, the 'xG_difference' product of the effective action porcentage executed at the collection of omega- events that happened during the match. A relational view of a Levy Flight or an effective phase possession that ends up in a goal scored has been described and illustrated in relational drawings produced with '_matplotsoccer_' library [Decroos] like show in Figure 2.2.
-
 ![](http://chazzpm.github.com/aFICSCHASS/images/02LevyFlights_BELENG_WC2018.png "Figure 2.2.Levy Flights in a Match")
 
 Now Gon has been learning and starting to talk a new '**language game**' for aFICS football and the local community - HC technical team and synergons - that now on will begin to speak it fluently. But,any how the mathematical mindset push me to formalize it.
