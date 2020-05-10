@@ -22,9 +22,9 @@ metadata_key1: aFICS_mindset
 ## 1.1. Gon, The First aFICS Synergon
 The main role of Academia Emeritense FC is the **development of synergons** or aFICS players, where being member of an AcEmFC's team in a pitch is just part of the extended playground environment where and how to play football with our identity.
 
-Let us assume our U5 talent name, a proactive inference agent (-on, a monad [Leibniz-1714, Friston-2020]), is Gunter or Guillermo. So, let us call this ideal synergon G-on, or Gon as apelative and, he will be the subject of our architecture of football education. 
+Let us assume our U5 talent name, a proactive inference agent (-on, a monad [Leibniz-1714, Friston-2020]), is Gunter or Guillermo. So, let us call this ideal synergon **G-on**, or **Gon** as apelative and, he will be the subject of our architecture of football education. 
 
-{% include info.html text="If his name is Mauricio or Manuel or Matias, it would be called M-on or Mon, and the like."%}
+{% include info.html text="If his name is Mauricio or Manuel or Matias, it would be called M-on or 'Mon', and the like. Each one of our five hundred talents registered in Academia Emeritense every year. A 'monad' the atomic universe of football"%}
 
 ## 1.2. aFootball as a System of Interactions over Event Drive Time in an Unbounded Landscape
 **Information** is *form*. The nature of *form* are *relations between objects*. This is the reason to conceives **science** as a *system* of *relations over time* driven by events in *space*. This multiple-Universe perspectives is the **core of the mindset of science** today. 
@@ -77,8 +77,10 @@ All theories of physics apply only to subsystems of the Universe; but not to the
 Reality must be build out of viewpoints, each one a partial perspective on a dynamically evolving universe. **A universe as seen from the inside**.
 
 Let us describe the 'structure of the world' as a '**view**' based on a theory about **processes**, about the sequences and causal relations among things that happen.
+
+{% include alert.html text="
+- We need a **pace** the imaginary way of describing relationships [Leibniz],[Smolin]."%}
 {% include info.html text="
-- We need a **pace** the imaginary way of describing relationships [Leibniz],[Smolin].
 - An **invisible relational framework** [The Monadology - Leibniz]"%}
 
 ## 1.5. In aFootball Universe there is only interior, not exterior in a Framed Landscape
@@ -91,8 +93,8 @@ Its classical view is the language game of journalists, espectators, fans and no
 
 In other side, the professional **footballers** have always seen their Football Universe through the multiplicity of views of themselves as the sole actors on the pitch and their observation and states of the game are build from inside. 
 
-{% include alert.html text="They all know that the universe of football have no outside and they have their own '**language game**'."%}
+{% include alert.html text="They all know that the universe of football have no outside and they have their own 'language game'."%}
 
-I will intent to take the universe of Football to study as footballers pro use to. A new machine learning approach that I must keep in my mind because using the classical way is a cultural temptation. The idea is to try to reformulate football in terms of these *views from the inside*, what it looks like from inside the aPitch that is the *perimeter* and the *patched interior* of the aFootball Universe.
+I will intent to take the universe of Football to study as footballers pro use to and talk in the proper **language game**. A new machine learning approach that I must keep in my mind because using the classical way is a cultural temptation. The idea is to try to reformulate football in terms of these *views from the inside*, what it looks like from inside the aPitch that is the *perimeter* and the *patched interior* of the aFootball Universe.
 
 [^1]: Perimeter Institute for Theoretical Physics members and physicist followers football fans are the ideal readers of this post
