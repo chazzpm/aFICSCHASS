@@ -79,10 +79,10 @@ Reality must be build out of viewpoints, each one a partial perspective on a dyn
 Let us describe the 'structure of the world' as a '**view**' based on a theory about **processes**, about the sequences and causal relations among things that happen.
 
 {% include alert.html text="
-- We need a **pace** the imaginary way of describing relationships [Leibniz],[Smolin]."%}
+- We need a 'pace' the imaginary way of describing relationships [Leibniz],[Smolin]."%}
 
 {% include info.html text="
-- An **invisible relational framework** [The Monadology - Leibniz]"%}
+- An 'invisible relational framework' [The Monadology - Leibniz]"%}
 
 ## 1.5. In aFootball Universe there is only interior, not exterior in a Framed Landscape
 In Football universe, the **event** are the things that happen at a single place and time; at each event there’s some physical quantity that’s measurable. The *event* has relations with the rest of the football universe, and that set of relations constitutes our *view* of the football universe. To have complete paralellism, **football needs to be played in a framed landscape**.
