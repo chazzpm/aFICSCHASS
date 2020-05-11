@@ -1,9 +1,9 @@
 ---
-title: "Part 0 aF Vision: 0. aNT's alter Football Process Prespective"
-summary: "Football has been my toy 'complex world'. Football will be my study case for complexity, machine learning ML and,for institutional drive at Academia Emeritense FC."
+title: "Part 0 aF Vision: 0. aNT's alter Football Process Perspective"
+summary: "Football has been my toy 'rich and complex world'. Football will be my study case for complexity, machine learning ML and,for institutional drive at Academia Emeritense FC."
 toc: true
 layout: post
-description: Football is my 'complex world' toy science study case
+description: Football is my 'rich and complex world' toy science study case
 comments: true
 image: images/00DualBifurcationBCmode.png
 hide: false
