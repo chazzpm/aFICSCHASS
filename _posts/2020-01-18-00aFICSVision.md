@@ -28,7 +28,7 @@ Football will be my study case for machine learning ML and for finding an instit
 {% include alert.html text="- The sources of **complexity** in the football game." %}
 
 
-{% include info.html text="- To spet aside the dominant view of the football game as a 'battle of atack and defense'. Instead, state that football is just a human game, that it is 'real' like life, itself " %} 
+{% include info.html text="- To step aside the dominant view of the football game as a 'battle of attack and defence'. Instead, state that football is just a human game, that it is 'real' like life, itself " %} 
 
 ## 0.1. A Culture of Innovation and Disruption
 This blog is an effort to build a *culture of innovations and disruptions* [vmware-2018] based on a reflection about the
