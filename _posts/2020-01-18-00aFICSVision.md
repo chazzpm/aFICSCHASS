@@ -1,5 +1,5 @@
 ---
-title: "Part 0 aF Vision: 0. aNT's alter Football"
+title: "Part 0 aF Vision: 0. aNT's alter Football Process Prespective"
 summary: "Football has been my toy 'complex world'. Football will be my study case for complexity, machine learning ML and,for institutional drive at Academia Emeritense FC."
 toc: true
 layout: post
@@ -15,7 +15,7 @@ metadata_key2: CHASS_vision
 
 # Part 0 aF Vision
 
-# 0. aNT's alter Football process prespective
+# 0. aNT's alter Football Process Perspective
 > **Charles R Paez Monzon** 2019 aNatureTechnologies
 
 > "I will not write it for you, I am writing it for me. No idea if for an us, in any near future"
