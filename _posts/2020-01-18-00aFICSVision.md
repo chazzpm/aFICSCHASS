@@ -20,14 +20,15 @@ metadata_key2: CHASS_vision
 
 > "I will not write it for you, I am writing it for me. No idea if for an us, in any near future"
 
-Football has been my toy 'world'. Many of you use to say 'football is life-like.' Everything in life is a **process**, including this blog where my **perspective** about the sport will try to 'get things right'. Football will be my study case for machine learning ML and for institutional drive at Academia Emeritense FC. In this first post, I will try to clarify my **process perspective** about:
+Football has been my rich and complex 'world' toy. Many of you use to say 'football is life-like.' Everything in life is a **process**; including this blog where my **perspective** about the sport will try to 'get things right' that is hard to understand, and highly unpredictable. 
+Football will be my study case for machine learning ML and for finding an institutional drive at Academia Emeritense FC mission. In this first post, I will try to clarify my **process perspective** about:
 
 {% include alert.html text="- AcEmFC's **culture traits** where aFICS dimensions are reinforced in order to create an identity for playing and behavior," %}
 
 {% include alert.html text="- The sources of **complexity** in the football game." %}
 
 
-{% include note.html text="- To spet aside the dominant view of the football game as a 'battle of atack and defense'. Instead, state that football is just a human game, that it is 'real' like life, itself " %} 
+{% include info.html text="- To spet aside the dominant view of the football game as a 'battle of atack and defense'. Instead, state that football is just a human game, that it is 'real' like life, itself " %} 
 
 ## 0.1. A Culture of Innovation and Disruption
 This blog is an effort to build a *culture of innovations and disruptions* [vmware-2018] based on a reflection about the
