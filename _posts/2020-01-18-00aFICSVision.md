@@ -34,7 +34,7 @@ Football will be my study case for machine learning ML and for finding an instit
 
 We opened the door to the world of football with different eyes because we are 'limited' being in perception and cognition, in inductive reason and all our experience is biased on assumptions. I am sure that our empirical knowledge can never be absolutely certain. 
 
-The 'reality' in football can be explored from **multiple persepectives** [R Giere]. Here, a perspective is a *qualified 'view'* about football. Qualification satisfies the 'constrains' of football. By having a 'perspective', we are not trapped in our 'interpretative framework'. Our perspective is what connects us with the reality of football. We focus on the *process* of creating football on the pitch. The metrics of out **process perspective** must be in agreement with observacional data and exhibit wide applicability in the sport.
+The 'reality' in football can be explored from **multiple persepectives** [R Giere]. Here, a perspective is a *qualified 'view'* about football. Qualification satisfies the 'constrains' of football. By having a 'perspective', we are not trapped in our 'interpretative framework'. Our perspective is what connects us with the reality of football. We focus on the *process* of creating football on the pitch. The metrics of the **process perspective** must be in agreement with observacional data and exhibit wide applicability in the sport.
 
 By comparing our perspective with all the rest of current qualified perspectives of football; we can grasp the **complex structure** of the reality of football.
 
