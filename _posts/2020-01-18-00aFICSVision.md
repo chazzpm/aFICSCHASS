@@ -20,27 +20,32 @@ metadata_key2: CHASS_vision
 
 > "I will not write it for you, I am writing it for me. No idea if for an us, in any near future"
 
-Football has been my rich and complex 'world' toy. Many of you use to say 'football is life-like.' Everything in life is a **process**; including this blog, where my **perspective** about the sport that is hard to understand, and highly unpredictable. Any how, I will try to 'get things right'.
+**Football is out there on the pitch**. All agree no one can grasp the 'truth' out there. At Academia Emeritense, we agree to disagree about.
+
+Football has been my 'world' toy of abundance and complexity. Many of you use to say 'football is life-like'. Everything in life is a **process** of changes; including this blog, where my **perspective** about the sport, that is hard to understand and highly unpredictable, will be explained in order to 'get things right' [Massini].
 
 Football will be my study case for machine learning ML and for finding an institutional drive at Academia Emeritense FC mission. In this first post, I will try to clarify my **process perspective** about:
 
-{% include alert.html text="- AcEmFC's **culture traits** where aFICS dimensions are reinforced in order to create an identity for playing and behavior," %}
+{% include alert.html text="- AcEmFC's 'culture traits' where 'aFICS dimensions' are relevant input parameters to our 'model of football' that pursues to create an identity for playing and an effective behavior," %}
 
-{% include alert.html text="- The sources of **complexity** in the football game." %}
+{% include alert.html text="- The sources of 'complexity' in the football game." %}
 
-{% include info.html text="- To step aside the dominant view of the football game as a 'battle of attack and defence'. Instead, state that football is just a human game, that it is 'real' like life, itself " %} 
+{% include info.html text="- To step aside the dominant view of the football game as a 'battle of attack and defence'. Instead, state that football is just a human game, that it is 'real' like life, itself " %}
+
+We opened the door to the world of football with different eyes because we are 'limited' being in perception and cognition, in inductive reason and all our experience is biased on assumptions. I am sure that our empirical knowledge can never be absolute;y certain. The 'reality' in football can be explored from **multiple persepectives** [R Giere]. Here, a perspective is a *qualified* 'view' about football. Qualification satisfies the 'constrains' of football. By having a 'perspective', we are not trapped in our 'interpretative framework'. Our perspective is what connects us with the reality of football. We focus on the *process* of creating football on the pitch. The metrics of out **perspective process** must be in agreement with observacional data and exhibit wide applicability in the sport.
+
+By comparing our perspective with all the rest of current perspectives of football we can grasp the **complex structure** of the reality of football.
 
 ## 0.1. A Culture of Innovation and Disruption
-This blog is an effort to build a *culture of innovations and disruptions* [vmware-2018] based on a reflection about the
-**mindset of science in football** with **machine learning ML data science** efforts and discipline to achieve:
+This blog is an effort to build a *culture of innovations and disruptions* [vmware-2018] based on a reflection about the latest **mindset of science** applied to football with machine learning ML data science efforts and discipline to achieve:
 
-    - Paternships building an ecosystem focused on our costumers (talents, families, teams, tournaments, leagues) by connecting all of them through a new language game and by turning disruption into opportunities to innovatein football together
+    - Paternships building an ecosystem focused on our costumers (talents, families, teams, tournaments, leagues) by connecting all of them through a new 'language game' and by turning disruption into opportunities to innovate in football together
     
     - Drive our efforts by innovating with purpose toward a self-actualization of the aFICS vision
    
-    - Resilience for our aFICS vision by embracing change and diversity to drive innovation in order to create an organization capable to react to an onslaught challenges and coming out even stronger and robust, and
+    - Robustness for our aFICS vision by embracing 'learning from our errors', change and diversity of views to drive innovation to create an organization capable to react to an onslaught challenges and coming out even stronger and robust, and
     
-    - Foster diversity, in a culture of innovations that has to be pervasive across everything we do, to create the ability to disrupt ourselves.
+    - Foster abundance in diversity and innovations that has to be pervasive across everything we do, to create the ability to disrupt ourselves.
 
 ## 0.2. Cultural Traits for Footballers with an Identity
 **Football** is a *spatial evolutionary social game* in the center of our enterprise culture. A **synergistic environment with
@@ -53,7 +58,7 @@ aFICS teams.
 
 This two criteria explain '*how the evolution of an aFICS team overcomes the emergence problem of collective and coherent cooperation*'. We assure those specific environmental conditions as a **silent culture of synergy** and its **ethical reinforcement**. It tolerates the recurrent presence of a neutral behavior of selfish players that does not harm or does improve the performance of the aFICS team immerse in the synergistic stress of our cultural environment.
 
-A third trait is that football is modeled as a *CHASS complex, hierarchical, adaptive social system* [Prigonine-1993, BarYam-2016]. A **complex social system** has a fixed fine *scale dynamics* and a *history*. We are interested in the larger scale of information where the scale of description is similar to the scale of interactions. So, we can also consider the larger scale impacts of the environment of the system and reciprocally.
+A third trait is that football is modeled as a *CHASS complex, hierarchical, adaptive social system* [Prigonine-1993, BarYam-2016]. A **complex social system** has a fixed fine *scale dynamics* and a *history*. We are interested in our meso-scale of information where the scale of description is similar to the scale of interactions. So, we can also consider the larger scale impacts of the environment of the system and reciprocally. 
 
 **Complex Systems** is a 'new science' or an 'alter vision'. The conception of **time** in the description of nature mainly, but of human complex behavior, too. The 'old' science's interest was on **certainty and reversible phenomena** in the Universe in equilibrium with no-time. Now, the scientific gaze has been oriented to *unstable dynamics* associated to *far-away-from-equilibrium* and *chaos* phenomena where **uncertainty and irreversibility** characterize *unstabilities* and *chains of events*. The reason for me, that explains, why football is my 'complex world' toy. 
 
