@@ -32,9 +32,11 @@ Football will be my study case for machine learning ML and for finding an instit
 
 {% include info.html text="- To step aside the dominant view of the football game as a 'battle of attack and defence'. Instead, state that football is just a human game, that it is 'real' like life, itself " %}
 
-We opened the door to the world of football with different eyes because we are 'limited' being in perception and cognition, in inductive reason and all our experience is biased on assumptions. I am sure that our empirical knowledge can never be absolute;y certain. The 'reality' in football can be explored from **multiple persepectives** [R Giere]. Here, a perspective is a *qualified* 'view' about football. Qualification satisfies the 'constrains' of football. By having a 'perspective', we are not trapped in our 'interpretative framework'. Our perspective is what connects us with the reality of football. We focus on the *process* of creating football on the pitch. The metrics of out **perspective process** must be in agreement with observacional data and exhibit wide applicability in the sport.
+We opened the door to the world of football with different eyes because we are 'limited' being in perception and cognition, in inductive reason and all our experience is biased on assumptions. I am sure that our empirical knowledge can never be absolutely certain. 
 
-By comparing our perspective with all the rest of current perspectives of football we can grasp the **complex structure** of the reality of football.
+The 'reality' in football can be explored from **multiple persepectives** [R Giere]. Here, a perspective is a *qualified 'view'* about football. Qualification satisfies the 'constrains' of football. By having a 'perspective', we are not trapped in our 'interpretative framework'. Our perspective is what connects us with the reality of football. We focus on the *process* of creating football on the pitch. The metrics of out **process perspective** must be in agreement with observacional data and exhibit wide applicability in the sport.
+
+By comparing our perspective with all the rest of current qualified perspectives of football; we can grasp the **complex structure** of the reality of football.
 
 ## 0.1. A Culture of Innovation and Disruption
 This blog is an effort to build a *culture of innovations and disruptions* [vmware-2018] based on a reflection about the latest **mindset of science** applied to football with machine learning ML data science efforts and discipline to achieve:
