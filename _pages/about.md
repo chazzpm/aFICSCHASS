@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-They, the idols of football, know that we known, time ago, they lie and their metaphor is obsolete. **Football is not a battle** and 'exploit' tasks of attack and defence are not the way to play the sport. We have been opted for 'explore' other perspective for us. The reason our AcEmFC teams plays an alter football, consistently during a game and a tournament.
+They, the idols of football, know that we knew, time ago, they lie and their metaphor is obsolete. **Football is not a battle** and 'exploit' tasks of attack and defence are not the way to play the sport. We have been opted for 'explore' other perspective for us. The reason our AcEmFC teams plays an alter football, consistently during a game and a tournament.
 
 In aNT, the sport of **football** is used as a *toy world* study case in order to create an *alter vision of the game* for Academia Emeritense FC at Merida, Venezuela. The development of our talents, head coaches and teams are immerse in a *culture of robustness, innovation and adaptation to disrupt* the game guided by the latest *science based mindset* of a **process perspective** to explain why everything flows on the pitch. 
 
