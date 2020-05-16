@@ -5,9 +5,11 @@ permalink: /about/
 ---
 *They*, the idols of football, *know that we know*, time ago, *they lie* and their metaphor is obsolete and just a valid perspective. **Football is not a battle** and 'exploit' tasks of attack and defense are not the way to play the sport. We had been opted for 'explore' other perspective for us. The reason our **AcEmFC teams plays an alter-football**, consistently during a game and a tournament.
 
-In aNT, the sport of **football** is used as a *toy world* study case in order to create an *alter vision of the game* for Academia Emeritense FC at Merida, Venezuela. The development of our talents, head coaches and teams are immerse in a *culture of robustness, innovation and adaptation to disrupt* the game guided by the latest *science based mindset* of a **process perspective**. 
-I pursue an **organic football universe** understanding from this alter perspective of **coexistence of simplicity and complex abundance of pattern features** in the sport. A shift from what we know to what we do not know by posing new questions pertinents to this process perspective in order to better understanting and style of playing football.
+In aNT, the sport of **football** is used as a *toy world* study case in order to create an *alter vision of the game* for Academia Emeritense FC at Merida, Venezuela. The development of our talents, head coaches and teams are immerse in a *culture of robustness, innovation and adaptation to disrupt* the game guided by the latest *science based mindset* of a **process perspective**.
 
+I pursue an **organic football universe** understanding from this alter perspective of **coexistence of simplicity and complex abundance of pattern features** in the sport. A shift from what we know to what we do not know by posing new questions pertinents to this process perspective in order to 'get things right'. 
+
+Get a better understanding that can exhibit a **causal explanation and management of an effective style of playing football**.
 Our well posed questions about an **alter-football** pursue to explain **why and how come everything flows on the pitch**.
 
 The **environment-game** or the **environment-AcEm's team** social systems, where football universe deploys, must be studied as a '**whole**'; in the largest scale where the most relevant information are those sources of 'diversity and complexity' of affordances, speed in taking decisions, and intentional skills transformed in actions that a footballer must deal and build inside the pitch. All them can be identified in the *cognitive, intelligent and synergestic* dimensions. So, my perspective can be called an **aFICS vision** of the sport.
