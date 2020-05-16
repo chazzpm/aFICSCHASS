@@ -9,8 +9,7 @@ In aNT, the sport of **football** is used as a *toy world* study case in order t
 
 I pursue an **organic football universe** understanding from this alter perspective of **coexistence of simplicity and complex abundance of pattern features** in the sport. A shift from what we know to what we do not know by posing new questions pertinents to this process perspective in order to 'get things right'. 
 
-Get a better understanding that can exhibit a **causal explanation and management of an effective style of playing football**.
-Our well posed questions about an **alter-football** pursue to explain **why and how come everything flows on the pitch**.
+Get a better understanding that can exhibit a **causal-mechanismic explanation and management of an effective style of playing football**. Our well posed questions about an **alter-football** pursue to explain **why and how come everything flows on the pitch**.
 
 The **environment-game** or the **environment-AcEm's team** social systems, where football universe deploys, must be studied as a '**whole**'; in the largest scale where the most relevant information are those sources of 'diversity and complexity' of affordances, speed in taking decisions, and intentional skills transformed in actions that a footballer must deal and build inside the pitch. All them can be identified in the *cognitive, intelligent and synergestic* dimensions. So, my perspective can be called an **aFICS vision** of the sport.
 
