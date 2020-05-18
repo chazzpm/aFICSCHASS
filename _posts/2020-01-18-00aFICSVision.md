@@ -1,5 +1,5 @@
 ---
-title: "Part 0 aF Vision: 0. aNT's alter Football Process Perspective"
+title: "Part 0 aF Vision: 0.0. aNT's alter Football Process Perspective"
 summary: "Football has been my toy 'rich and complex world'. Football will be my study case for complexity, machine learning ML and,for institutional drive at Academia Emeritense FC."
 toc: true
 layout: post
@@ -114,7 +114,7 @@ The football game last 90+x minutes and Pg+Px sequence of playing intervals or c
 
             FG = s0.p0.s1.p1.s2.p2...sn-2.pn-2.sn-1,pn-1.sn.pn
 
-A characteristic property of aFootball as CHASS is that every *playing interval* starts in *stasis*. Therefore, the number of **bifurcations** in a playing interval is not so deep and we must wait that chaos is not probable to appears. Figure 0.1. illustrate the **dual ball-control bifurcation diagram of the football game** for the two teams. This is the **history** and **punctuared evolution** of the football game where the expected and the unexpected can be read.
+A characteristic property of organismic aFootball as CHASS is that every *playing interval* starts in *stasis*. Therefore, the number of **bifurcations** in a playing interval is not so deep and we must wait that chaos is not probable to appears. Figure 0.1. illustrate the **dual ball-control bifurcation diagram of the football game** for the two teams. This is the **history** and **punctuared evolution** of the football game where the expected and the unexpected can be read.
 
 ![](http://chazzpm.github.com/aFICSCHASS/images/00DualBifurcationBCmode.png "Figure 0.1. Dual Ball-Control Bifurcation Diagram of the aFootball Game")
 
@@ -128,21 +128,14 @@ We are interested in **pattern formation** in football dynamics that represent *
 These ideas summarizes how and where the **synergistic, cognitive and intelligent dimensions of our alter football** are used to develop and evolve our aFICS synergons and aFICS teams at Academia Emeritense FC.
 
 ## 0.6. aFICSCHASS Blog: A tool at hand to expose my based on science mindset perspective
-In the blog, I explore how is that we can all live in the same Football universe yet see reality so differently. I will adopt
-science's mindset to walk through in this phenomenon with an aFICSCHASS vision. 
+In the blog, I explore how is that we can all live in the same Football universe yet see reality so differently. I will adopt science's mindset to walk through in this phenomenon with an aFICSCHASS vision. 
 
-Physics and mathematics will be used to determine fundamental concepts about the pitch and the game, although **truth** is not
-enterely clear-cut.     
+Physics and mathematics will be used to determine fundamental concepts about the pitch and the game, although **truth** is not enterely clear-cut.     
 
-Neuroscience indicates that our perceptions are not direct representations of the external world. Rather each unique brain
-makes guesses about reality based on the sensory signals every one receives. 
+Neuroscience indicates that our perceptions are not direct representations of the external world. Rather each unique brain makes guesses about reality based on the sensory signals every one receives. 
 
-The uncertainty in space-time about the horizon of ordered events in the world of a football game must be **reduced by
-understanding** how we instinctively deal with unknowns and how every one exploit his knowledge about the information 
-ecosystem.
+The uncertainty in space-time about the horizon of ordered events in the world of a football game must be **reduced by understanding** how we instinctively deal with unknowns and how every one exploit his knowledge about the information ecosystem.
 
-There is no other way in this multi-perspectivism about football than **build consensus and mutual understanding
-about the football game**. 
+There is no other way in this multi-perspectivism about football than **build consensus and mutual understanding about the football game**. 
 
-I offered to Academia Emeritense FC mine in order to institutionalize our vision, mision and proactive actions about aFICS
-Football. After that, we can offered it to the world of football everywhere.
+I offered to Academia Emeritense FC mine in order to institutionalize our vision, mision and proactive actions about **organismic aFICS Football**. After that, we can offered it to the world of football everywhere.
