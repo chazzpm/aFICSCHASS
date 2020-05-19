@@ -31,20 +31,21 @@ Let us assume our U5 talent name, a proactive inference agent (-on, a monad [Lei
 
 The purpose of this work is to generate the basis of a new mindset in the form of a **language game** [Wittgenstein-1953] for Gon **about an alter-Football**; conceived as *a system of dynamic interactions over an event-driven time horizon on a playground landscape* that first will be unbounded because the child meets football on the street or in the open as a playground. Later, he needs to play football in the *FIFA's framed landscape for Football* or **pitch**. 
 
-Our new *language game* is build from the multivalent *affordances, decisions, collective intentionality* and *skilled actions* that he will experience and execute in the **_FIFA's framed landscape_** that will be *patched* in Academia Emeritense FC or **aPitch** that will become the canvas for **football analytics** in aNT. 
+Our new *language game* is build from the multivalent *affordances, decisions, collective intentionality* and *skilled actions* that he will experience and execute in the **_FIFA's framed landscape_** that will be *patched* in Academia Emeritense FC or a dynamic **aPitch** that will become canvas for **football analytics** in aNT. 
 
 Gon plays are guided by
    - a set of affordances experienced due his wide and deep cognitive field that increases his awareness
    - a set of intelligent decision making based on his awareness about the affordances and guided by
    - a set of embodied collective intentionality as synergestic players
    - a set of intentional skilled actions executed in synergy with his teammates and,
+
 that in summary creates his understanding of aFootball in order to play it with cognition, intelligence and synergy.
 
 If he concentrates persistently in this playground-world, he will enter into **Gon's flow state** while playing and, we will be able  do the *dynamical system of event-interactions* analysis that happens on the aPitch as **football flow** in *every-patch and every-event on the landscape*.
 
 ## 1.3. Apply Classical Science Mindset to aFootball
 Let us apply science mindset to the **Universe of the game of Football** conceived as a 3D infinite disk projected on a **2D 
-unbounded landscape with no things, no events and no agents**; just a *Universe of eternal nothingness and stasis*. No things 
+unbounded landscape with no things, no events and no agents**[^1]; just a *Universe of eternal nothingness and stasis*. No things 
 and no events means *no relations* therefore, *no space-time*. To anneal, edify the unbounded landscape [Rovelli]. 
 
 Physical science, the dominant classical mindset, establishes the **background structure of the world** by conceiving: 
@@ -71,12 +72,12 @@ On other hand, the statement that "**there is nothing outside the Universe**" im
 
 All theories of physics apply only to subsystems of the Universe; but not to the Universe as a whole, because they  requiere this background structure. All of them are based on "the cosmological fallacy" [Smolin,Unger] that hopes theories that apply to subsystems and scale them up to the universe as a whole. 
 
-*We need a theory of dynamics without an observer, or a measuring instrument outside the system* because the Universe has a **perimeter** [^1], an expanding one. Therefore, **there is only interior and no exterior** [Smolin]. The fundamental **monad Gon** represents the universe based on his unique view of the whole universe from the interior. 
+*We need a theory of dynamics without an observer, or a measuring instrument outside the system* because the Universe has a **perimeter** [^2], an expanding one. Therefore, **there is only interior and no exterior** [Smolin]. The fundamental **monad Gon** represents the universe based on his unique view of the whole universe from the interior, 'where everything flows'. 
 
 ### 1.4.1. Reality of aFootball as a multiplicity of views from inside aPitch
 Reality must be build out of viewpoints, each one a partial perspective on a dynamically evolving universe. **A universe as seen from the inside**.
 
-Let us describe the 'structure of the world' as a '**view**' based on a theory about **processes**, about the sequences and causal relations among things that happen.
+Let us describe the 'structure of the world' as a '**view**' based on a theory about **processes**, about the sequences, imperfect perceived by any agent, of causal relations among things that happen.
 
 {% include alert.html text="
 - We need a 'pace' the imaginary way of describing relationships [Leibniz],[Smolin]."%}
@@ -85,17 +86,21 @@ Let us describe the 'structure of the world' as a '**view**' based on a theory a
 - An 'invisible relational framework' [The Monadology - Leibniz]"%}
 
 ## 1.5. In aFootball Universe there is only interior, not exterior in a Framed Landscape
-In Football universe, the **event** are the things that happen at a single place and time; at each event there’s some physical quantity that’s measurable. The *event* has relations with the rest of the football universe, and that set of relations constitutes our *view* of the football universe. To have complete paralellism, **football needs to be played in a framed landscape**.
+In Football universe, the **event**, the 'phenomenon', is the thing that happens and dissapears at a single place and time. At each event, there’s some physical quantity that’s measurable. The *event* has relations with the rest of all the football universe, and that set of relations constitutes our *view* of the football universe. To have complete paralellism, **football needs to be played in a framed landscape** that constrain the possible **football flow**.
 
 ![](http://chazzpm.github.com/aFICSCHASS/images/01MoebiusStrip.png "Figure 1.1. Universe with only interior and perimeter")
 
 ### 1.5.1. Language Game as the story-telling of footballers in the game
-Its classical view is the language game of journalists, espectators, fans and now in 21st century those with the language of sport analytics where their observations and states about a football match - inside- are ruled by an absolute time with a duration 90 + x minutes and the dynamics of the football game is described by the external observators. In this context,without them, no football game happened.
+Its classical view is the language game of journalists, espectators, fans and now in 21st century those with the language of sport analytics where their observations and states about a football match - inside- are ruled by an absolute time with a duration 90 + x minutes and the dynamics of the football game is described by the external observators. In this context,without them, no football game happened, but they are valid perspectives of the game.
 
 In other side, the professional **footballers** have always seen their Football Universe through the multiplicity of views of themselves as the sole actors on the pitch and their observation and states of the game are build from inside. 
 
 {% include alert.html text="They all know that the universe of football have no outside and they have their own 'language game'."%}
 
-I will intent to take the universe of Football to study as footballers pro use to and talk in the proper **language game**. A new machine learning approach that I must keep in my mind because using the classical way is a cultural temptation. The idea is to try to reformulate football in terms of these *views from the inside*, what it looks like from inside the aPitch that is the *perimeter* and the *patched interior* of the aFootball Universe.
+I will intent to take the universe of Football to study as footballers pro use to and talk in the proper **language game**. A new machine learning approach that I must keep in my mind because using the classical way is a cultural temptation. The idea is to try to reformulate football in terms of these *views from the inside*; what it looks like from inside the aPitch that is the *perimeter* and the *patched interior* of the aFootball Universe[^3].
 
-[^1]: Perimeter Institute for Theoretical Physics members and physicist followers football fans are the ideal readers of this post
+[^1]: The 'error of mistaking the abstract and the concrete' or Fallacy of Misplaced Concreteness. Motive, for me, to switch to process perspectives rather than 'things perspectives' [N.Rescher-1996] to describe phenomena in 'football world' 'where everything flows'.
+
+[^2]: Perimeter Institute for Theoretical Physics members and physicist followers football fans are the ideal readers of this post.
+
+[^3]: The reason of a fundamental style of basic playing of holistic football with a 'membrane' and a 'perimeter' that demark the core and the surroundings of the patched aPitch specie.
