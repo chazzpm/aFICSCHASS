@@ -21,18 +21,20 @@ metadata_key2: language_game
 > Mein Fuβball Weltanschauung
 
 ## 2.1. A Relational Dynamics Model for Football Universe
-In this work, the arquetipical mechanics will dominates, but with persistent intromission of the alternative view [Smolin] of _relations_ between things, agents, events in the unbounded landscape once we have a model of the internal structure of the  world, the '_world of football_' in our case of study.
+In this work, the archetypal mechanics will dominates, but with persistent intromission of the alternative view [Smolin] of _relations_ between things, agents, events in the unbounded landscape once we have a model of the internal structure of the  world, the '_world of football_' in our case of study.
 
 Science needs mathematical theory to **model the world phenomena** and to discover the **laws of relational dynamics** based on a preminence of the ideas of _observable of relations_ and _state of relations_. Let us explore this mathematical perspective of the world in order to have an idea about all possible world that can happens in the **relational Footbal Universe** or **aFootball**.
 
 This relational football is already present in the middle of football data science departments and enterprises like StatsBomb,
-Opta, Wyscout, etc. 
+Opta, Wyscout, etc with an **event-observable based description of the game**. 
 
 {% include info.html text="Their dataframes are events driven and columns pairs are relations between relevant observables inside the pitch. Figure 2.1 shows a dataframe of all the events in the range (2526..2537) of the effective possession phase 152, that corresponds to the 98th possession brake 'PB'. The on-ball phase possession of 'Barcelona' starts with from a throw in 'play pattern id' 4 at xy-location (13.9,1.0) in the minute 68. The sequence of events ends up in event 2637 at xy-location (63.9,36.7)."%}
 
 ![](http://chazzpm.github.com/aFICSCHASS/images/02LevyFlightEffdf.png "Figure 2.1. Dataframe of a Levy Flight in a Match")
 
 This manner to describe football has adopted the physical-mathematical model of observables and states relations that marks time as an event-driven variable, that adopts the manner footballers experience their football universe on the pitch. I am modeling such an experience, that is all.
+
+{% include info.html text="SPADL [Decroos-2019] and Atomic-SPADL [Decroos-2020] are Python packages and tools for 'event-to-action-driven' converter or a 'player action' description language of the 'football flow' in a game. Each 'action' ai is represented as a 9-tuple attribute where 'Action_Type' identifies the kind of action in a set of 21 types with a power law distribution of occurrences dominated by 'passing', 'dribble', 'interception'. Atomic-SPADL is an alternative representation to value actions related to score or yield goals and assigning a 'value action' to participants in the 'atomic action' in a second thought set of types."%}
 
 ### 2.1.1. Relevant Observations of Relations
 In football, the **relevant observation** of Gon is measure _change in ball position_ and _event-time_, _together_ and yields an event-coordinate tuple (α, β). This relevant observation is an _**event**_. Each event has relations with the rest of the football universe and, that set of relations constitutes its *view* of the Universe. Each view has to be unique.
