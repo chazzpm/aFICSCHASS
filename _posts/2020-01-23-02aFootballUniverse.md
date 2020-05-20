@@ -73,11 +73,12 @@ A _relativistic state_ is determined by a couple (A, φ). It determines a _curve
 When a team re-gain possession during a match, let me say at alpha α-point relativistic state, through an **alpha-event** open the adjacent possible of a sequence of intelligent, cognitive and synergestic event pipeline of football flow dynamics towards the rival goal. Such a sequence is a *protopian-trajectory* of incremental progress of '_expected goal_ xG' accomplishing xG football motion by football motion in the sequence that in case of end in an **omega event** with a pass to the net of the rival goal we call it a **Levy flight**, an actual football flow dynamics from alpha α-point to omega point where a teammate player scores a goal.
 
 The most important _relativistic observable_ will be the scored minus conceded goals or '_goal difference_' of each team and in terms of analytics, the 'xG_difference' product of the effective action porcentage executed at the collection of omega- events that happened during the match. A relational view of a Levy Flight or an effective phase possession that ends up in a goal scored has been described and illustrated in relational drawings produced with '_matplotsoccer_' library [Decroos] like show in Figure 2.2.
+
 ![](http://chazzpm.github.com/aFICSCHASS/images/02LevyFlights_BELENG_WC2018.png "Figure 2.2.Levy Flights in a Match")
 
-Now Gon has been learning and starting to talk a new '**language game**' for aFICS football and the local community - HC technical team and synergons - that now on will begin to speak it fluently. But,any how the mathematical mindset push me to formalize it.
+The **network-process perspective** of aFICSCHASS blog is centered in a **generative process** of *Levy flights* or *effective trajectories* that starts in an alpha point in any location inside the landscape or in a beta source point in the *perimeter* or inside the landscape after a rule has been applied by the arbiter and; ends in an omega point with a contralateral atomic action that direct the ball to opponent's goal.
 
-{% include info.html text="The 'network-process perspective' of aFICSCHASS blog is centered in a 'generative process' of 'Levy flights' or 'effective trajectories' that starts in an $/alpha point in any location inside the landscape or in a $/beta source point in the 'perimeter' or inside the landscape after a rule has been applied by the arbiter and; ends in an $/omega point with a contralateral atomic action that direct the ball to opponent's goal."%}
+Now Gon has been learning and starting to talk a new '**language game**' for aFICS football and the local community - HC technical team and synergons - that now on will begin to speak it fluently. But,any how the mathematical mindset push me to formalize it.
 
 ## 2.2. The New Language Game for aFootball
 
