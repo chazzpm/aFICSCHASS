@@ -77,7 +77,7 @@ The most important _relativistic observable_ will be the scored minus conceded g
 
 Now Gon has been learning and starting to talk a new '**language game**' for aFICS football and the local community - HC technical team and synergons - that now on will begin to speak it fluently. But,any how the mathematical mindset push me to formalize it.
 
-{% include alert.html text="The 'network-process perspective' of aFICSCHASS blog is centered in a 'generative process' of 'Levy flights' or 'effective trajectories' that starts in an $/alpha point in any location inside the landscape or in a $/beta source point in the 'perimeter' or inside the landscape after a rule has been applied by the arbiter and; ends in an $/omega point with a contralateral atomic action that direct the ball to opponent's goal."%}
+{% include alert.html text="The 'network-process perspective' of aFICSCHASS blog is centered in a 'generative process' of 'Levy flights' or 'effective trajectories' that starts in an $/alpha point in any location inside the landscape or in a $/beta source point in the 'perimeter' or inside the landscape after a rule has been applied by the arbiter and; ends in an $/omega point with a contralateral atomic action that direct the ball to opponent's goal." %}
 
 ## 2.2. The New Language Game for aFootball
 
