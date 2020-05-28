@@ -917,7 +917,7 @@ window.onload = wrap_img;
 <p></p>
 <div class="flash flash-warn">
     <svg class="octicon octicon-zap octicon octicon-zap octicon octicon-zap octicon octicon-zap octicon octicon-zap octicon octicon-zap" viewbox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 7H6l3-7-9 9h4l-3 7 9-9z"></path></svg>
-    <strong>Important: </strong>A Binary Space Partitioned BSP is a special case of k-d space partition methods. In 2D, is implemented by recursively subdividing a space into two convex sets by implementing kyperplanes as partitions. This process rise to a representation of objects within the region in the form of a BSP tree data structure. In our case of study aPLandscape space we must use lines and circles to partitio and generate  the subspaces.
+    <strong>Important: </strong>A Binary Space Partitioned BSP is a special case of k-d space partition methods. In 2D, is implemented by recursively subdividing a space into two convex sets by implementing hyperplanes as partitions. This process rise to a representation of objects within the region in the form of a BSP tree data structure. In our case of study aPLandscape space we must use lines and circles to partition and generate the subspaces.
 </div>
 
 </div>
@@ -926,22 +926,24 @@ window.onload = wrap_img;
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Any bounded, patched territory is near (binary, ternary) decomposable [H.Simon-1978] into a hierarchical organization levels. This hierarchical space architecture of the aPLandscape can be build with a sequence of binary partitions.</p>
+<p>Any bounded, patched territory is near (binary, ternary) decomposable [H.Simon-1978] into a <strong>hierarchical organization levels</strong>. This hierarchical space architecture of the aPLandscape can be build with a sequence of binary partitions.</p>
 <ul>
-<li>The "circular inside aPLandscape space" is partitioned into halves by a middle line l1 to separate {our-half, their-half}</li>
-<li>Each half subspace is partitioned by a semi-circle line l2 to distinguish {outter, inner} subspaces<ul>
-<li>Each inner subspace inside a half subspace has to distinguish between (core, middle) subspaces<ul>
+<li>The "circular inside aPLandscape space" is partitioned into halves by a middle line l1 to separate {our-half, their-half}<ul>
+<li>Each half subspace is partitioned by a semi-circle l2 line to distinguish {outter, inner} subspaces<ul>
+<li>Each inner subspace inside a half subspace is partitioned by a semi-circle l3 line has to distinguish between (core, middle) subspaces<ul>
 <li>The core-inner-half subspace identify a unique core patch {08} or {17}</li>
 <li>The middle-inner-half subspace must be ternary decomposable by means of a sequence of two partitions<ul>
-<li>A right-lateral line l3 separate {left-inner, central.right-inner} in our-half and {right-inner, central.left-inner} in our-half. Therefore, patch {07}, as our left-inner subspace, and patch {16}, as their right-inner subspace, are uniquely identified.</li>
-<li>Each composed {central.right-inner} and {central.left-inner} subspaced are partitioned by the left-lateral line l4 to uniquely distinguish {central-inner, right-inner} subspaces in our half as {05} and {06} unique patches, and {central-inner, left-inner} subspaces in their half as {14} and {15} unique patches.<ul>
-<li>Each outter subspace of a half subspace has to distinguish {left,left-box,box,right-box,right} subspaces as unique outter patches</li>
-<li>A 1/8-right-lateral line l5 isolates patch (13) in a partition {right-right-outter, rest1-outter} in their outter-half subspace and isolates patch {04}  in the partition {left-left-outter, rest2-outter} in our outter-half subspace</li>
-<li>A 3/8-right-lateral line l6 isolates patch {11} in their rest1-outter subspace and isolates patch {02} in our rest1-outter subspace in the partition {right-center-outter, rest2-outter}</li>
-<li>A 5/8-left-lateral line l7 isolates patch {09} by partitioned the rest2-outter {their-box,rest3-outter}  and isolate patch {00} by partioned our rest2-outter into {our-box, rest3-outter}</li>
-<li>A 7/8-left-lateral line l8 isolate patch {10} and {patch {12} by partioned their rest3-outter into {left-center-outter, left-left-outter} subspaces and isolate patch {01} and patch {03} by partitioned own rest3-outter into  {right-center-outter,right-right-outter}</li>
+<li>A right-lateral line l4 separate {left-inner, central.right-inner} in our-half and {right-inner, central.left-inner} in our-half. Therefore, patch {07}, as our left-inner subspace, and patch {16}, as their right-inner subspace, are uniquely identified.</li>
+<li>Each composed {central.right-inner} and {central.left-inner} subspaced are partitioned by the left-lateral line l5 to uniquely distinguish {central-inner, right-inner} subspaces in our half as {05} and {06} unique patches, and {central-inner, left-inner} subspaces in their half as {14} and {15} unique patches.</li>
 </ul>
 </li>
+</ul>
+</li>
+<li>Each outter subspace of a half subspace has to distinguish {left,left-box,box,right-box,right} subspaces as unique outter patches<ul>
+<li>A 1/8-right-lateral line l6 isolates patch (13) in a partition {right-right-outter, rest1-outter} in their outter-half subspace and isolates patch {04}  in the partition {left-left-outter, rest2-outter} in our outter-half subspace</li>
+<li>A 3/8-right-lateral line l7 isolates patch {11} in their rest1-outter subspace and isolates patch {02} in our rest1-outter subspace in the partition {right-center-outter, rest2-outter}</li>
+<li>A 5/8-left-lateral line l8 isolates patch {09} by partitioned the rest2-outter {their-box,rest3-outter}  and isolate patch {00} by partioned our rest2-outter into {our-box, rest3-outter}</li>
+<li>A 7/8-left-lateral line l9 isolate patch {10} and {patch {12} by partioned their rest3-outter into {left-center-outter, left-left-outter} subspaces and isolate patch {01} and patch {03} by partitioned own rest3-outter into  {right-center-outter,right-right-outter}</li>
 </ul>
 </li>
 </ul>
